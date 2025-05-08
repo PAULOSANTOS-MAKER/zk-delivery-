@@ -26,11 +26,3 @@ Ideal para logística privada, envios sensíveis e máxima privacidade.
 
 ---
 
-## 🧪 Como rodar localmente
-
-### Pré-requisitos
-
-- Node.js (v16 ou 18)
-- Circom e SnarkJS instalados globalmente:
-  ```bash
-  npm install -g circom snarkjs
